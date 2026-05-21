@@ -56,13 +56,13 @@ python -m streamlit run chatbot.py
 ## 📸 Screenshots
 
 ### Home Page
-![Home](Screenshots/Home%20page.png)
+![Home](Screenshots/home.png)
 
 ### Asking Question
-![Question](Screenshots/Asking%20question.png)
+![Question](Screenshots/question.png)
 
 ### Chatbot Answer
-![Answer](Screenshots/Chatbot%20answer.png)
+![Answer](Screenshots/answer.png)
 
 ---
 
